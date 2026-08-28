@@ -1,0 +1,41 @@
+﻿Product_id,Product_category,Month_name,Region,Sales
+1,Home Appliances,Jan,South,4500
+2,Home Appliances,Feb,East,5505
+3,Home Appliances,Jan,West,4567.45
+4,Food Items,Jan,West,12900
+5,Clothing,Mar,South,10000
+6,Clothing,Apr,South,5400
+7,Home Appliances,May,East,7685.8
+8,Food Items,Jun,East,9000
+9,Accessories,Jun,West,7650
+10,Accessories,Jun,South,11000
+11,Accessories,Jan,East,23456
+12,Food Items,May,East,10000
+13,Food Items,Jan,West,9800
+14,Home Appliances,Jan,South,11400
+15,Food Items,Jan,South,23220
+16,Food Items,Mar,East,7650.8
+17,Home Appliances,May,West,21000
+18,Accessories,Jun,East,12000
+19,Accessories,Apr,East,10000
+20,Home Appliances,Feb,South,8750.7
+21,Food Items,Feb,South,6570
+22,Food Items,Feb,South,8750
+23,Accessories,Mar,West,10000
+24,Home Appliances,Apr,East,12000
+25,Food Items,Jan,East,1000
+26,Food Items,Jan,South,8700
+27,Accessories,Feb,West,4210
+28,Clothing,May,East,7689
+29,Clothing,Jun,South,3000
+30,Food Items,Feb,South,9000
+31,Food Items,Jan,East,47650
+32,Food Items,Mar,South,2050
+33,Home Appliances,Mar,East,13000
+34,Accessories,Mar,East,12500
+35,Food Items,Apr,West,12100
+36,Food Items,Feb,South,11000
+37,Food Items,Jan,East,9080
+38,Clothing,May,East,6700
+39,Accessories,Feb,East,2000
+40,Home Appliances,Jan,East,3500
